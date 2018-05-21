@@ -1,2 +1,1 @@
-# sy.github.io
-https://sy.gihub.io
+# [somarlyonks.gihub.io](https://somarlyonks.gihub.io)
