@@ -1,0 +1,30 @@
+# Site settings
+title:          Sy
+description:    "somarlyonks.github.io"
+# baseurl:        "/tale"
+url:            "https://somarlyonks.github.io"
+
+# Author
+author:
+  name:         Sy
+  url:          https://qotes.top
+  email:        somarl@live.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+  - jekyll-remote-theme
+  # - jemoji #Uncomment this to allow emoji in your post
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
