@@ -1,5 +1,5 @@
 ---
-layout: hidden
+layout: post
 title: My Cryptic Codes Generating Strategy
 ---
 
@@ -24,17 +24,23 @@ example for a map that's easy to remember, you can just produce a map on your ow
 And let me explain how the step.3 works.
 
 github -> (760957)6095
+
 g -> 9 -> % -> b -> 6 -> @ -> t -> 7
+
 i -> l -> 1 -> ! -> g -> 9 -> %
+
 t
+
 h -> 6 -> @ -> t -> 7 -> j -> i -> l -> 1 -> @
+
 u -> 1 -> @ -> t -> 7 -> j
+
 b -> 6 -> @ -> t -> 7 -> j -> i -> l
 
 So the result code is `7%t@jl`. Then the step.4 capitalize it into `7%T@jL`.
 Cool, it looks just like generated randomly.
 
-Notice that some of them will go into a loop, which could be avoided, that just doesn't matter as it's long enough like `@ -> t -> 7 -> j -> i -> l -> 1 -> @`.
+Notice that some of them will go into a loop, which could be avoided, but that just doesn't matter as it's long enough like `@ -> t -> 7 -> j -> i -> l -> 1 -> @`.
 
 The flaw is that were you mistaken the code at first time, unfortunately, it's a catastrophe. So I may provide an example script that generates codes in this way.
 
