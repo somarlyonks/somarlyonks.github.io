@@ -7,7 +7,10 @@ title: From Assign to Monad
 
 ### WIKI
 
+- [Continuation](https://en.wikipedia.org/wiki/Continuation)
 - [Continuation-passing style](https://en.wikipedia.org/wiki/Continuation-passing_style)
+- [call/cc](https://en.wikipedia.org/wiki/Call-with-current-continuation)
+- [Reification](https://en.wikipedia.org/wiki/Reification_(computer_science))
 - [Monad (functional programming)](https://en.wikipedia.org/wiki/Monad_(functional_programming))
 
 ### Papers
